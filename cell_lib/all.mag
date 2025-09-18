@@ -1,0 +1,112 @@
+magic
+tech tsmc180
+timestamp 1733142700
+<< pimplant >>
+rect 3980 999 4059 1043
+rect 4962 1011 4988 1026
+<< nimplant >>
+rect 3980 120 4059 164
+rect 4940 151 4966 156
+rect 4940 129 4984 151
+rect 4944 111 4984 129
+use leftbuf  leftbuf_0
+timestamp 1733141744
+transform 1 0 0 0 1 0
+box 0 0 2520 1182
+use inv  inv_0
+timestamp 1733141893
+transform 1 0 2520 0 1 0
+box 0 0 87 1182
+use smux2  smux2_0
+timestamp 1733141620
+transform 1 0 2607 0 1 0
+box 0 0 195 1182
+use rdtype  rdtype_0
+timestamp 1733141177
+transform 1 0 2802 0 1 0
+box 0 0 398 1182
+use buffer  buffer_0
+timestamp 1733142295
+transform 1 0 3200 0 1 0
+box 0 0 113 1182
+use scandtype  scandtype_0
+timestamp 1733141543
+transform 1 0 3313 0 1 0
+box 0 0 593 1182
+use nand2  nand2_0
+timestamp 1733140815
+transform 1 0 3906 0 1 0
+box 0 0 120 1182
+use smux3  smux3_0
+timestamp 1733141677
+transform 1 0 4026 0 1 0
+box 0 0 391 1182
+use rdtype  rdtype_1
+timestamp 1733141177
+transform 1 0 4417 0 1 0
+box 0 0 398 1182
+use nand3  nand3_0
+timestamp 1733140868
+transform 1 0 4815 0 1 0
+box 0 0 153 1182
+use scanreg  scanreg_0
+timestamp 1733141518
+transform 1 0 4968 0 1 0
+box 0 0 789 1182
+use fulladder  fulladder_0
+timestamp 1732895094
+transform 1 0 5757 0 1 0
+box 0 0 301 1182
+use mux2  mux2_0
+timestamp 1733140770
+transform 1 0 6058 0 1 0
+box 0 0 252 1182
+use trisbuf  trisbuf_0
+timestamp 1733142189
+transform 1 0 6310 0 1 0
+box 0 0 212 1182
+use tiehigh  tiehigh_0
+timestamp 1733142080
+transform 1 0 6522 0 1 0
+box 0 0 87 1182
+use tielow  tielow_0
+timestamp 1733142116
+transform 1 0 6609 0 1 0
+box 0 0 87 1182
+use rowcrosser  rowcrosser_0
+timestamp 1733141308
+transform 1 0 6696 0 1 0
+box 0 0 54 1182
+use halfadder  halfadder_0
+timestamp 1733140494
+transform 1 0 6750 0 1 0
+box 0 0 291 1182
+use xor2  xor2_0
+timestamp 1733141978
+transform 1 0 7041 0 1 0
+box 0 0 186 1182
+use nor2  nor2_0
+timestamp 1733141021
+transform 1 0 7227 0 1 0
+box 0 0 155 1182
+use and2  and2_0
+timestamp 1733141870
+transform 1 0 7382 0 1 0
+box 0 0 144 1182
+use or2  or2_0
+timestamp 1733141121
+transform 1 0 7526 0 1 0
+box 0 0 186 1182
+use nor3  nor3_0
+timestamp 1733141056
+transform 1 0 7712 0 1 0
+box 0 0 153 1182
+use nand4  nand4_0
+timestamp 1733140946
+transform 1 0 7865 0 1 0
+box 0 0 186 1182
+use rightend  rightend_0
+timestamp 1733141261
+transform 1 0 8051 0 1 0
+box 0 0 399 1182
+<< end >>
